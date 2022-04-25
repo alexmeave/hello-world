@@ -1,2 +1,5 @@
 # hello-world
-Mi primer repositorio
+## Mi primer repositorio
+
+Este repositorio está dedicado a experimentar con Git
+
